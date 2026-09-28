@@ -6,6 +6,11 @@ A mobile shopping app for browsing and buying mousepads, built with **React Nati
 
 
 
+https://github.com/user-attachments/assets/7e2ebd7d-4a78-47be-84b4-d5f32ddb1cb5
+
+
+
+
 ## Features
 
 - Browse mousepads grouped by theme on the home screen
